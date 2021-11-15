@@ -212,23 +212,14 @@ button:active{
     width: 230px;
     margin:0px 0px 20px 0px;
 }
-.box-1 button a,
+.box-1 a,
 .box-2 button a,
 .box-3 button a{
     text-decoration: none;
     color: black;
 }
  
-.box-1 button ,
-.box-2 button ,
-.box-3 button {
-    width:100px;
-    height:30px;
-    background-color:#c0c0c0;
-    border:none;
-    outline: none;
-    border-radius:5px;
-}
+
 
 .testimoni{
     height:500px;
