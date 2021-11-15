@@ -229,6 +229,11 @@ button:active{
     outline: none;
     border-radius:5px;
 }
+.box-1 button a:hover ,
+.box-2 button a:hover,
+.box-3 button a:hover{
+    background-color: blue;
+}
 
 .testimoni{
     height:500px;
