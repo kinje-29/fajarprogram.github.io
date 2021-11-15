@@ -229,9 +229,9 @@ button:active{
     outline: none;
     border-radius:5px;
 }
-.box-1 button a:hover ,
-.box-2 button a:hover,
-.box-3 button a:hover{
+.box-1 button:hover ,
+.box-2 button:hover,
+.box-3 button:hover{
     background-color: blue;
 }
 
